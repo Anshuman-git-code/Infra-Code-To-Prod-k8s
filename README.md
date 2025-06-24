@@ -16,10 +16,10 @@ This project implements a modern DevOps pipeline that includes:
 
 ## 🏗️ Architecture
 
-```
+
 <img width="1440" alt="Project-Structure" src="https://github.com/user-attachments/assets/63fbf8cc-9d09-4e35-ba8b-76ec229b62e1" />
 
-```
+
 
 ## 🛠️ Technologies Used
 
